@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.c2a10908.css",
-    "main.js": "/static/js/main.cda99168.js",
-    "static/js/453.ba46c9cc.chunk.js": "/static/js/453.ba46c9cc.chunk.js",
-    "static/media/miscellaneous.png": "/static/media/miscellaneous.67ad17410879409203ef.png",
-    "static/media/personal.png": "/static/media/personal.0726848466dcae27f506.png",
-    "static/media/academics.png": "/static/media/academics.94da4f58b1db9a1e2433.png",
-    "static/media/career.png": "/static/media/career.32c44ebf25533950d9c9.png",
-    "index.html": "/index.html",
-    "main.c2a10908.css.map": "/static/css/main.c2a10908.css.map",
-    "main.cda99168.js.map": "/static/js/main.cda99168.js.map",
-    "453.ba46c9cc.chunk.js.map": "/static/js/453.ba46c9cc.chunk.js.map"
+    "main.css": "/Insight-Assignment/static/css/main.c2a10908.css",
+    "main.js": "/Insight-Assignment/static/js/main.8d19b315.js",
+    "static/js/453.ba46c9cc.chunk.js": "/Insight-Assignment/static/js/453.ba46c9cc.chunk.js",
+    "static/media/miscellaneous.png": "/Insight-Assignment/static/media/miscellaneous.67ad17410879409203ef.png",
+    "static/media/personal.png": "/Insight-Assignment/static/media/personal.0726848466dcae27f506.png",
+    "static/media/academics.png": "/Insight-Assignment/static/media/academics.94da4f58b1db9a1e2433.png",
+    "static/media/career.png": "/Insight-Assignment/static/media/career.32c44ebf25533950d9c9.png",
+    "index.html": "/Insight-Assignment/index.html",
+    "main.c2a10908.css.map": "/Insight-Assignment/static/css/main.c2a10908.css.map",
+    "main.8d19b315.js.map": "/Insight-Assignment/static/js/main.8d19b315.js.map",
+    "453.ba46c9cc.chunk.js.map": "/Insight-Assignment/static/js/453.ba46c9cc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c2a10908.css",
-    "static/js/main.cda99168.js"
+    "static/js/main.8d19b315.js"
   ]
 }
