@@ -11,8 +11,8 @@ import Miscellaneous from "./pages/Miscellaneous";
 const App = () => (
     <Router>
         <Navbar />
+        <Home />
         <Routes>
-            <Route path="/" element={<Home />} />
             <Route path="/academics" element={<Academics />} />
             <Route path="/career" element={<Career />} />
             <Route path="/personal" element={<Personal />} />
