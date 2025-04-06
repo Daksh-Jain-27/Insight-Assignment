@@ -1,0 +1,67 @@
+.survey-container {
+    min-height: 100vh;
+    background-color: #f3efe6;
+    color: #3b3c03;
+    font-family: sans-serif;
+    padding-top: 70px;
+  }
+  
+  .header {
+    text-align: center;
+    padding: 2rem 0;
+  }
+  
+  .header h1 {
+    font-size: 3rem;
+    font-weight: bold;
+  }
+
+  .academics-section {
+    background-color: #f3efe6;
+    padding: 3rem 1rem;
+    text-align: center;
+    color: #3b3c03;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .section-title {
+    font-size: 3rem;
+    margin-bottom: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .image-card {
+    position: relative;
+    display: inline-block;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+    margin-bottom: 1.5rem;
+  }
+  
+  .background-image {
+    display: block;
+    width: 90vw;
+    max-width: 800px;
+    height: auto;
+    filter: brightness(60%);
+  }
+  
+  .overlay-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #f3efe6;
+    font-size: 2rem;
+    font-weight: 500;
+  }
+  
+  .description {
+    font-size: 1rem;
+    max-width: 700px;
+    margin: 0 auto;
+    line-height: 1.6;
+  }
+  
+  
